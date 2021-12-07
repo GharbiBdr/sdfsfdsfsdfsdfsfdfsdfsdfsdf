@@ -115,3 +115,237 @@ jobs:
             namespace: 'frc'
             manifests: k8s/*
             kubectl-version: 'latest'
+            
+            
+            
+            
+   Les accès GoDaddy:
+Login: tarak.h
+Password: ht-pixi-789
+Use this link to accès tenantive dns:
+https://click-email.godaddy.com/7lcbYomrlmg1IXG0Flvqjn/?currencyId=USD&eid=ocp.email.transactional/3111.LayoutSimple/Rebrand/Button_Arrow.link.click&marketId=en-GB&redir=https%3A%2F%2Faccount.godaddy.com%2Faccess%3Fisc%3Dgdbb3111%26utm_source%3Dgdocp%26utm_medium%3Demail%26utm_campaign%3Den-GB_other_email-nonrevenue_base_gd%26utm_content%3D200507_3111_Engagement_Other_Account_Account-Notification_gdbb3111_7lcbYomrlmg1IXG0Flvqjn
+
+
+
+
+
+
+
+
+
+OVH GMAIL ACCOUNT
+L'adresse gmail du compte OVH est la suivante:
+-Email: piximind@gmail.com
+-Mot de passe: ht-pixi-789
+==========================================================================================
+ovh
+user: ef15714-ovh
+pass: @@PixiServer
+
+===========================================================================================
+
+We-team
+PARAMETRES D'ACCES:
+IP address : 213.32.89.229
+DNS name : vps-e85d83e3.vps.ovh.net
+Username : ubuntu
+MDP : BMajHCkwEAmz
+
+==========================================================================================
+
+PIXI-infras
+
+Votre VPS vient d'être installé sous le système d'exploitation / distribution
+Ubuntu 20.04
+
+
+PARAMETRES D'ACCES:
+L'adresse IPv4 du VPS est : 193.70.113.133
+
+Le nom du VPS est : vps-04fd136d.vps.ovh.net
+
+Le compte administrateur suivant a été configuré sur le VPS :
+Nom d'utilisateur : ubuntu
+Mot de passe :      yz2QcmMdkM5D
+
+============================================================================================
+
+Stage
+PARAMETRES D'ACCES:
+L'adresse IPv4 du VPS est : 51.210.255.56
+Le nom du VPS est : vps-e47f1ce1.vps.ovh.net
+Le compte administrateur suivant a été configuré sur le VPS :
+Nom d'utilisateur : ubuntu
+Mot de passe :   8yAAS4wm8fhY
+
+================================================================================================
+
+FRC Backup
+The new server details are as follows:
+L'adresse IPv4 du VPS est : 51.38.226.252
+Le nom du VPS est : vps-837cf745.vps.ovh.net
+Nom d'utilisateur : ubuntu
+Mot de passe :    U8kdztNuUsFJ
+
+=====================================================================================================
+
+browserstack
+J'ai donc changé les accès du compte principale comme suit:
+Email: piximind@gmail.com
+Password: @@Pixi-Stack
+
+======================================================================================================
+
+Pre-PROD SPVIE
+ACCESS PARAMETERS:
+The IPv4 address of the VPS is: 51.75.251.125
+The name of the VPS is: vps-d061a8e7.vps.ovh.net
+Username: ubuntu
+Password: fme3wqGJyX4N
+
+========================================================================================================
+
+France Challenge PROD
+Host IP: 40.89.135.218
+Username: Pomelo
+MDP: PomeloFRC@123
+Ports: 22, 80, 443 (open)
+
+VM type:  B2ms
+vCPU: 2
+RAM: 8GB
+Data disk: 4
+Max IOPS: 1920
+Temp storage: 16GB
+
+===================================================================================================
+
+SMTP DEV
+MAIL_MAILER=smtp
+MAIL_HOST=ssl0.ovh.net
+MAIL_PORT=587
+MAIL_USERNAME=smtp@piximind.com
+MAIL_PASSWORD=smtp@smtp
+MAIL_ENCRYPTION=tls
+
+========================================================================================================
+
+pre prod Xefi.
+Kindly find the details below for the pre prod server of Xefi.
+ACCESS PARAMETERS:
+The IPv4 address of the VPS is: 5.196.224.137
+The name of the VPS is: vps-fe025e5a.vps.ovh.net
+The following administrator account has been configured on the VPS:
+Username: ubuntu
+Password: fXQ7nWt5wECU
+
+===========================================================================================================
+
+OYO 
+Virtual Machine:
+Details of the VM:
+Public IP address : 40.68.216.164
+DNS name: fruitdor-pomelo.westeurope.cloudapp.azure.com
+ssh Username: Fruidor
+MDP: Pomelo@fruidor
+
+============================================================================================================
+
+GT supply
+ssh Pomelo@40.89.147.67
+Pwd: PomeloGtSupply@123
+
+===========================================================================================================
+
+Frane challenge --PreProd
+PARAMETRES D'ACCES:
+L'adresse IPv4 du VPS est : 141.94.16.106
+Le nom du VPS est : vps-480e92cd.vps.ovh.net
+Le compte administrateur suivant a été configuré sur le VPS :
+Nom d'utilisateur : ubuntu
+Mot de passe :   raPjjY6mSqRB
+
+==============================================================================================================
+
+DEV-France Challenge VM
+Please find the details of France Challenge VM:
+
+PARAMETRES D'ACCES:
+L'adresse IPv4 du VPS est : 51.75.251.125
+
+Le nom du VPS est : vps-d061a8e7.vps.ovh.net
+
+Le compte administrateur suivant a été configuré sur le VPS :
+Nom d'utilisateur : ubuntu
+Mot de passe :      7ytEmHJ8z3Fv
+
+=================================================================================================================
+
+Sa-petite-lettre Pre-prod
+PARAMETRES D'ACCES:
+L'adresse IPv4 du VPS est : 152.228.142.152
+
+Le nom du VPS est : vps-0d4f8f5a.vps.ovh.net
+
+Le compte administrateur suivant a été configuré sur le VPS :
+Nom d'utilisateur : ubuntu
+Mot de passe :      GyNJC5QG53KZ
+
+=================================================================================================================
+
+Piximind-DEV
+PARAMETRES D'ACCES:
+L'adresse IPv4 du VPS est : 51.77.141.51
+
+Le nom du VPS est : vps-061b6980.vps.ovh.net
+
+Le compte administrateur suivant a été configuré sur le VPS :
+Nom d'utilisateur : ubuntu
+Mot de passe :      GHVQmPqC5YyS
+
+====================================================================================================================
+
+START-Preprod
+VM Details:
+Host: 104.45.2.115
+Username: Pomelo
+MDP: PomeloStart@123
+
+====================================================================================================================
+
+XEFI-dev
+PARAMETRES D'ACCES:
+L'adresse IPv4 du VPS est : 51.161.11.52
+Le nom du VPS est : vps-de75100a.vps.ovh.ca
+Le compte administrateur suivant a été configuré sur le VPS :
+Nom d'utilisateur : ubuntu
+Mot de passe :   AMxD3kQABdKq
+
+====================================================================================================================
+
+Hello registry ACR
+deadpoolcr.azurecr.io
+DeadpoolCR
+yhz5i5aKWV7BVErv25p=aIQ7KCu3fU8p
+
+====================================================================================================================
+SMTP config
+MAIL_MAILER=smtp
+MAIL_HOST=ssl0.ovh.net
+MAIL_PORT=587
+MAIL_USERNAME=system@piximind.com
+MAIL_PASSWORD=PIXIsmtp1aqw2zsx
+MAIL_ENCRYPTION=tls
+
+=====================================================================================================================
+
+pixi wifi pass
+PIxi202:  HiPixiMind2021
+
+=======================================================================================================================
+
+
+
+
+
+
